@@ -1,10 +1,9 @@
-![Consumer Data Right Logo](https://raw.githubusercontent.com/ConsumerDataRight/mock-data-holder-energy/main/cdr-logo.png) 
+![Consumer Data Right Logo](https://raw.githubusercontent.com/ConsumerDataRight/mock-data-holder/main/Assets/cdr-logo.png?raw=true) 
 
 [![Consumer Data Right Sandbox](https://img.shields.io/badge/Join%20the%20CDR%20Sandbox-blue.svg)](https://cdrsandbox.gov.au/)
 [![Terms of Use](https://img.shields.io/badge/Read%20the%20%20Terms%20of%20Use-blue.svg)](https://cdrsandbox.gov.au/terms-of-use)
 [![made-with-mock-register](https://img.shields.io/badge/Made%20with-Mock%20Register-1f425Ff.svg)](https://github.com/ConsumerDataRight/mock-register)
 [![made-with-mock-data-holder](https://img.shields.io/badge/Made%20with-Mock%20Data%20Holder-1f425Ff.svg)](https://github.com/ConsumerDataRight/mock-data-holder)
-[![made-with-mock-data-holder-energy](https://img.shields.io/badge/Made%20with-Mock%20Data%20Holder%20Energy-1f425Ff.svg)](https://github.com/ConsumerDataRight/mock-data-holder-energy)
 [![made-with-mock-data-recipient](https://img.shields.io/badge/Made%20with-Mock%20Data%20Recipient-1f425Ff.svg)](https://github.com/ConsumerDataRight/mock-data-recipient)
 
 # Consumer Data Right Sandbox
