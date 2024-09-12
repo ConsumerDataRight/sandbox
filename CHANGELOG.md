@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.0] -  2024-09-12
+### Changed
+- Updated TLS cipher suite requirements to comply with CDS standards v1.31.0
+
 ## [2.0.0] - 2024-06-12
 ### Changed
 - Migrated from .NET 6 to .NET 8
