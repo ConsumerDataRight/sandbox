@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.0] -  2025-03-26
+### Fixed
+- Fixed issue where Data Recipient could not access TLS resource APIs
+
+### Added
+- Added ability to update Dynamic Client Registrations from Data Recipient UI
+
+### Removed
+- Removed all OIDC Hybrid Flow related code and functionality
+- Removed ID Token Decryption from Data Recipient Utilities
+
 ## [2.2.0] -  2025-02-20
 ### Changed
 - Updated TLS cipher suite requirements to comply with CDS standards v1.32.0
