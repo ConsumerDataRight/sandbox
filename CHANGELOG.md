@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.0.1] -  2025-06-18
+### Fixed
+- Changed Sandbox Outbound IP Address to 20.227.98.16
+
 ## [3.0.0] -  2025-03-26
 ### Fixed
 - Fixed issue where Data Recipient could not access TLS resource APIs
