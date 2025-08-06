@@ -6,8 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [3.1.1] - 2025-08-06
-### Fixed
+## [3.1.1] - 2025-08-06
+### Fixed
 - Fixed Sandbox Data Recipient issue where some claims in the PAR request were not sent in lowercase.
 
 ## [3.1.0] -  2025-06-18
