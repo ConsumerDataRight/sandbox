@@ -6,12 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.1.4] - 2026-03-19
+### Changed
+- Upgraded multiple packages to address or avoid vulnerabilities
+
 ## [3.1.3] - 2025-12-03
 ### Changed
 - Upgraded multiple packages to address or avoid vulnerabilities
 ### Fixed
 -  Fixed Sandbox Data Recipient where casing for the claims and other elements in JWT
-
 
 ## [3.1.2] - 2025-10-15
 ### Changed
