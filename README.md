@@ -18,7 +18,6 @@ The Sandbox repository provides a public space for Sandbox Participants to log i
 
 Visit the [issue tab](https://github.com/ConsumerDataRight/sandbox/issues) to log an issue or request. Select `Bug Report` or `Feature Request` depending on the nature of the issue.
 
-If you would like to reach out to us by other means, please contact our Technical Operations Team via [CDRTechnicalOperations@accc.gov.au](mailto:cdrtechnicaloperations@accc.gov.au?subject=CDR%20Sandbox%20Issue).
 
 # For more information
 See our [helpful resources](https://consumerdataright.atlassian.net/l/cp/VnNrL8sZ) or access the [Sandbox](https://cdrsandbox.gov.au/) and get started.
