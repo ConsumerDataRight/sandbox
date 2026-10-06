@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [3.2.0] - 2024-10-07
+### Changed
+- Migrated from .NET 8 to .NET 10
+- Migrated xUnit from v2 to v3
+- Upgraded multiple packages to address or avoid vulnerabilities
+- Removed obsolete Get Energy Accounts V1 and Get Metrics V4 APIs
+
 ## [3.1.4] - 2026-03-19
 ### Changed
 - Upgraded multiple packages to address or avoid vulnerabilities
